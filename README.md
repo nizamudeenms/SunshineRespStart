@@ -3,7 +3,7 @@ Sunshine
 
 Sunshine is the companion Android app for the Udacity course [Developing Android Apps: Android Fundamentals](https://www.udacity.com/course/ud853).
 
-This is my own Version of Sunshine App, and my First Commit to Guthub From Git Desktop.
+This is my own Version of Sunshine App, and my First Commit to Github From Git Desktop.
 
 For the original version, please go [here](https://github.com/udacity/Sunshine).
 
